@@ -28,10 +28,7 @@ return (
      <MobileNav /> 
     </nav>   
    </>
-
 )
-   
-
 
 };
  
